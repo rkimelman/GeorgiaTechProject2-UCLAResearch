@@ -1,2 +1,2 @@
 # GeorgiaTechProject2
-Poster
+Poster I created to cap my summer research experience at UCLA.
